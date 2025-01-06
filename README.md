@@ -1,4 +1,4 @@
-# Story Generation Endpoint
+# Streaming Example: Story Generation Endpoint
 
 This Spring Boot application provides two endpoints for generating stories using a chat client (likely Spring AI).
 
